@@ -15,7 +15,7 @@ avi.last_name = "Flombaum"
 jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Something"
-puts "Here's #{jim} #{jim.knowledge}"
+puts "Here's #{jim} "
 
 some_knowledge = avi.teach
 
